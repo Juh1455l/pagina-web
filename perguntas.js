@@ -1,23 +1,23 @@
 criaCartao(
     'medicina',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual é a função principal do sistema cardiovascular?',
+    'Transportar sangue, oxigênio, nutrientes, hormônios e remover resíduos metabólicos das células do corpo.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Moda',
+    ' O que define um estilo minimalista na moda?',
+    ' Caracteriza-se por peças simples, cores neutras, poucos acessórios e foco na qualidade e funcionalidade.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'veterinaria',
+    'Qual a importância da vacinação em animais de companhia para a saúde pública?',
+    'Protege os animais contra doenças infecciosas, mas também previne a transmissão de zoonoses para os humanos.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Direito',
+    'Quais são as principais fontes do direito no Brasil',
+    'A Constituição Federal, as leis (complementares, ordinárias, delegadas, medidas provisórias, decretos legislativos e resoluções), os tratados e convenções internacionais, a jurisprudência, a doutrina e os costumes.'
 )
